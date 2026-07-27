@@ -1,16 +1,55 @@
-## Hi there 👋
+------------------------------------------------
 
-<!--
-**yashas1519-pixel/yashas1519-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Yashas N
 
-Here are some ideas to get you started:
+Full Stack Developer
+AI Engineer
+Open Source Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------
+
+🚀 About Me
+
+I build scalable web applications,
+AI platforms and enterprise SaaS.
+
+------------------------------------------------
+
+🛠 Tech Stack
+
+React
+Next.js
+Express
+Node.js
+Prisma
+PostgreSQL
+Firebase
+Docker
+
+------------------------------------------------
+
+📌 Featured Projects
+
+🚀 MentorHub
+
+🌳 Pacha Cover
+
+📚 Academic ERP
+
+🚌 Utsava Travels
+
+------------------------------------------------
+
+📊 GitHub Stats
+
+------------------------------------------------
+
+📫 Connect
+
+LinkedIn
+
+Portfolio
+
+Email
+
+------------------------------------------------
