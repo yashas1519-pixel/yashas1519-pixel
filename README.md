@@ -40,7 +40,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[MentorHub](https://github.com/yashas1519-pixel/MentorHub)** | Enterprise-grade multi-tenant mentor–mentee management SaaS | NestJS · Next.js · Prisma · PostgreSQL |
 | **[Pacha-Cover](https://github.com/yashas1519-pixel/Pacha-Cover)** 🌿 | AI-powered urban canopy restorer — Gemini tree prescriptions, Earth Engine heat mapping, Firestore green ledger | Python |
 | **[NOC Portal](https://github.com/yashas1519-pixel/nodue-portal)** | No-Due Clearance management system for educational institutions | TypeScript |
 | **MITM PlacePro** 🔒 | Industry-grade college placement system — 4 role-based dashboards, ATS scoring, interview scheduling | TypeScript |
