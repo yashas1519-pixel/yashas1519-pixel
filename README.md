@@ -1,93 +1,64 @@
-<div align="center">
-
-<img src="https://capsule-render.com/api?type=waving&color=0:1e1b4b,50:701a75,100:9d174d&height=220&section=header&text=Yashas.N&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/yashas1519-pixel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=D946A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yashas+N;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Real-World+Systems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/yashas1519-pixel?label=Followers&style=for-the-badge&color=9d174d&labelColor=1e1b4b" />
-<img src="https://komarev.com/ghpvc/?username=yashas1519-pixel&label=Profile%20Views&style=for-the-badge&color=9d174d&labelColor=1e1b4b" />
-<img src="https://img.shields.io/github/stars/yashas1519-pixel?label=Stars&style=for-the-badge&color=9d174d&labelColor=1e1b4b" />
-
+<!--
+  MIDNIGHT SYSTEMS / GitHub profile of Yashas N.
+  Original SVG artwork. No external image hosts, counters, or scripts.
+  Files should remain in ./assets/ relative to README.md.
+--><div align="center">
+  <img src="./assets/01-hero.svg" width="100%" alt="Yashas N. — Systems, not just screens. Futuristic midnight blue engineering illustration with an orbital YN monogram." />
+</div><div align="center">
+  <strong>Software that solves real problems. Interfaces that feel intentional.</strong>
+  <br />
+  <sub>Full-stack engineering × Applied AI × Thoughtful product design</sub>
+  <br /><br />
+  <a href="https://github.com/yashas1519-pixel?tab=repositories">Explore the code</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/yashas-n-b71625310/">Let's connect</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:yashas1519@gmail.com">Say hello</a>
 </div>
+> whoami
+I'm Yashas N. I build end-to-end products, from the data model and API contracts to the details that make an interface feel effortless.
 
-<br/>
+My work lives where software architecture meets real-world friction: institutional workflows, multi-tenant platforms, AI-assisted decisions, and human-centered tools. I like projects that demand both deep systems thinking and a sharp eye for design.
+<img src="./assets/02-pillars.svg" width="100%" alt="Three focus areas: product systems, applied intelligence, and interface craft." />> ls ./selected-work
+Four projects. Four very different problems. One principle: build the whole thing with care.
 
-## 🚀 About Me
+<a href="https://github.com/yashas1519-pixel/MentorHub"><img src="./assets/03-mentorhub.svg" width="100%" alt="MentorHub — a multi-tenant education SaaS with roles, mentoring workflows, and auditability." /></a>
 
-- 🎓 Student, still exploring — currently deep in **full-stack development** and **AI-powered systems**
-- 🏗️ I build scalable web applications, enterprise SaaS platforms, and institutional-scale systems (placement portals, ERPs, access control)
-- 🤖 Exploring how AI (Gemini, LLM tooling) fits into real products, not just demos
-- 🌱 Currently sharpening system design, cloud, and DevOps fundamentals
-- 📫 Reach me: **yashas1519@gmail.com**
+Explore MentorHub →  ·  Project website
+A mentor–mentee management platform designed around eight roles, tenant boundaries, academic operations, messaging, and traceable workflows. Next.js · NestJS · Prisma · PostgreSQL.
 
-<br/>
+<a href="https://github.com/yashas1519-pixel/contentpilot-ai"><img src="./assets/04-contentpilot.svg" width="100%" alt="ContentPilot AI — predictive content intelligence using ML models, explanations, and computer vision." /></a>
 
-## 🛠️ Tech Stack
+Explore ContentPilot AI →  ·  Project website
+An AI-driven content intelligence project exploring performance prediction, explainability, and vision-assisted analysis before publication. Next.js · FastAPI · XGBoost/LightGBM · SHAP.
 
+<a href="https://github.com/yashas1519-pixel/nodue-portal"><img src="./assets/05-noc.svg" width="100%" alt="NOC Portal — a digital education clearance system with approvals, dues and role-based workflows." /></a>
+
+Explore NOC Portal →  ·  Project website
+Turning a paperwork-heavy student clearance process into a multi-stage, role-aware digital workflow, with dues management and audit trails. React · TypeScript · Supabase · PostgreSQL.
+
+<a href="https://github.com/yashas1519-pixel/Pacha-Cover"><img src="./assets/06-pacha.svg" width="100%" alt="Pacha Cover — AI-powered urban canopy planning with environmental data, tree prescriptions, and a green ledger." /></a>
+
+Explore Pacha Cover →
+A greener-city experiment combining AI tree recommendations, satellite heat data, and community planting records. Python · FastAPI · Gemini · Earth Engine · Firestore.
+> cat ./other-signals.md
+Project	What I explored
+ReportForge	Privacy-conscious, local-first report generation from spreadsheets and PowerPoint templates.
+KSP	A fitness platform built with Next.js, Firebase, and multilingual tooling.
+MindStream	Gemini-powered conversational UX with sentiment and response telemetry.
+Windows XP Portfolio	A playful, nostalgic browser-based portfolio experiment.
+Utsava Travels	A responsive travel-business website built with HTML, CSS, and JavaScript.
+
+
+> inspect ./toolchain
+<img src="./assets/07-stack.svg" width="100%" alt="Toolchain: TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Python, FastAPI, Gemini." />Beyond these: Supabase, Firebase, Prisma, Docker, Tailwind CSS, Vite, Git, computer vision, and ML tooling — chosen based on the problem rather than collected as badges.
+> echo $CURRENT_MINDSET
+[01] Think in systems.       Design for the whole lifecycle.
+[02] Build for people.       Make complexity feel simple.
+[03] Keep experimenting.     Learn fast, refine deliberately.
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,py,postgres,firebase,docker,prisma,git,github,figma,vscode" />
+  <a href="https://github.com/yashas1519-pixel?tab=repositories">ALL REPOSITORIES</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:yashas1519@gmail.com">COLLABORATE</a>
 </div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Pacha-Cover](https://github.com/yashas1519-pixel/Pacha-Cover)** 🌿 | AI-powered urban canopy restorer — Gemini tree prescriptions, Earth Engine heat mapping, Firestore green ledger | Python |
-| **[NOC Portal](https://github.com/yashas1519-pixel/nodue-portal)** | No-Due Clearance management system for educational institutions | TypeScript |
-| **MITM PlacePro** 🔒 | Industry-grade college placement system — 4 role-based dashboards, ATS scoring, interview scheduling | TypeScript |
-| **DevalayaKarnataka** 🔒 | Community-powered, crowd-sourced directory for 30,000+ Karnataka temples | Next.js 14 |
-| **Hostel Face Attendance** 🔒 | Facial-recognition based hostel attendance system | TypeScript |
-| **ERP** 🔒 | Institutional resource planning system | TypeScript |
-
-</div>
-
-<sub>🔒 = private repository — code isn't public, but happy to walk through it on request.</sub>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yashas1519-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=1e1b4b&title_color=D946A7&icon_color=D946A7&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas1519-pixel&layout=compact&theme=radical&hide_border=true&bg_color=1e1b4b&title_color=D946A7&text_color=ffffff" width="30%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=yashas1519-pixel&theme=radical&hide_border=true&background=1e1b4b&ring=D946A7&fire=D946A7&currStreakLabel=D946A7" width="70%" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yashas1519-pixel/yashas1519-pixel/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-<sub>Generated automatically by GitHub Actions from real contribution data — see setup note below.</sub>
-
-<br/>
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashas-n-b71625310/)
-[![Email](https://img.shields.io/badge/Email-9d174d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashas1519@gmail.com)
-
-</div>
-
-<div align="center">
-<sub>See you in the next commit ✨</sub>
-</div>
-
-<img src="https://capsule-render.com/api?type=waving&color=0:9d174d,100:1e1b4b&height=100&section=footer" width="100%"/>
+<img src="./assets/08-footer.svg" width="100%" alt="Let the work speak. Craft, curiosity, iteration." />
