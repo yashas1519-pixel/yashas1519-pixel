@@ -1,64 +1,23 @@
-<!--
-  MIDNIGHT SYSTEMS / GitHub profile of Yashas N.
-  Original SVG artwork. No external image hosts, counters, or scripts.
-  Files should remain in ./assets/ relative to README.md.
---><div align="center">
-  <img src="./assets/01-hero.svg" width="100%" alt="Yashas N. — Systems, not just screens. Futuristic midnight blue engineering illustration with an orbital YN monogram." />
-</div><div align="center">
-  <strong>Software that solves real problems. Interfaces that feel intentional.</strong>
-  <br />
-  <sub>Full-stack engineering × Applied AI × Thoughtful product design</sub>
-  <br /><br />
-  <a href="https://github.com/yashas1519-pixel?tab=repositories">Explore the code</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/yashas-n-b71625310/">Let's connect</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:yashas1519@gmail.com">Say hello</a>
-</div>
-> whoami
-I'm Yashas N. I build end-to-end products, from the data model and API contracts to the details that make an interface feel effortless.
+<!-- Offscreen Editorial: individually linked panels from the approved illustration. -->
+<p align="center"><img src="assets/hero.png" width="100%" alt="Yashas N — Builder, Developer and Problem Solver. Full-stack systems, products and AI." /></p>
+<p align="center"><a href="https://www.linkedin.com/in/yashas-n-b71625310/">LinkedIn</a> · <a href="https://github.com/yashas1519-pixel?tab=repositories">All repositories</a> · <a href="mailto:yashas1519@gmail.com">Contact</a></p>
 
-My work lives where software architecture meets real-world friction: institutional workflows, multi-tenant platforms, AI-assisted decisions, and human-centered tools. I like projects that demand both deep systems thinking and a sharp eye for design.
-<img src="./assets/02-pillars.svg" width="100%" alt="Three focus areas: product systems, applied intelligence, and interface craft." />> ls ./selected-work
-Four projects. Four very different problems. One principle: build the whole thing with care.
+<p><img src="assets/selected-work.png" width="100%" alt="Selected work — a curated collection of projects" /></p>
+<p align="center"><img src="assets/mitm-placepro.png" width="49%" alt="MITM PlacePro — private campus recruitment case study; Next.js, NestJS, PostgreSQL" /> <a href="https://github.com/yashas1519-pixel/nodue-portal"><img src="assets/noc-portal.png" width="46%" alt="NOC Portal — college no-due clearance and approvals; React and Supabase" /></a></p>
+<p align="center"><img src="assets/acadops.png" width="24%" alt="AcadOps — private academic operations project" /> <img src="assets/devalaya.png" width="23%" alt="DevalayaKarnataka — private community-powered Karnataka temple directory" /> <a href="https://github.com/yashas1519-pixel/Pacha-Cover"><img src="assets/pacha-cover.png" width="23%" alt="Pacha Cover — AI urban canopy restoration and satellite heat mapping" /></a> <a href="https://github.com/yashas1519-pixel/MentorHub"><img src="assets/mentorhub.png" width="24%" alt="MentorHub — multi-tenant institutional mentoring platform" /></a></p>
+<p align="center"><a href="https://github.com/yashas1519-pixel/contentpilot-ai"><img src="assets/contentpilot.png" width="25%" alt="ContentPilot AI — social media intelligence and performance prediction" /></a> <a href="https://github.com/yashas1519-pixel/ReportForge"><img src="assets/reportforge.png" width="23%" alt="ReportForge — local-first Excel/CSV to PowerPoint reporting" /></a> <a href="https://github.com/yashas1519-pixel/KSP"><img src="assets/ksp.png" width="23%" alt="KSP — fitness web application" /></a> <a href="https://github.com/yashas1519-pixel/windows-xp-portfolio"><img src="assets/windows-xp.png" width="24%" alt="Windows XP Portfolio — nostalgic interactive web portfolio" /></a></p>
 
-<a href="https://github.com/yashas1519-pixel/MentorHub"><img src="./assets/03-mentorhub.svg" width="100%" alt="MentorHub — a multi-tenant education SaaS with roles, mentoring workflows, and auditability." /></a>
+<details>
+<summary><img src="assets/more-builds.png" width="95%" alt="More builds — expand for other projects" /></summary>
 
-Explore MentorHub →  ·  Project website
-A mentor–mentee management platform designed around eight roles, tenant boundaries, academic operations, messaging, and traceable workflows. Next.js · NestJS · Prisma · PostgreSQL.
+- **ERP** — private institutional software project.
+- **[Rajan's Food Truck Kiosk](https://github.com/yashas1519-pixel/rajans-food-truck-kiosk)** — self-service ordering and kitchen management.
+- **[MindStream](https://github.com/yashas1519-pixel/lumnia-)** — conversational AI with response telemetry.
+- **[Utsava Travels](https://github.com/yashas1519-pixel/Utsava-Travels)** — travel-services website.
+- **[Result Portal](https://github.com/yashas1519-pixel/result-portal-firebase)** — academic results application.
 
-<a href="https://github.com/yashas1519-pixel/contentpilot-ai"><img src="./assets/04-contentpilot.svg" width="100%" alt="ContentPilot AI — predictive content intelligence using ML models, explanations, and computer vision." /></a>
+Private case studies are intentionally high-level. Project artwork is illustrative, not screenshots of private systems.
+</details>
 
-Explore ContentPilot AI →  ·  Project website
-An AI-driven content intelligence project exploring performance prediction, explainability, and vision-assisted analysis before publication. Next.js · FastAPI · XGBoost/LightGBM · SHAP.
-
-<a href="https://github.com/yashas1519-pixel/nodue-portal"><img src="./assets/05-noc.svg" width="100%" alt="NOC Portal — a digital education clearance system with approvals, dues and role-based workflows." /></a>
-
-Explore NOC Portal →  ·  Project website
-Turning a paperwork-heavy student clearance process into a multi-stage, role-aware digital workflow, with dues management and audit trails. React · TypeScript · Supabase · PostgreSQL.
-
-<a href="https://github.com/yashas1519-pixel/Pacha-Cover"><img src="./assets/06-pacha.svg" width="100%" alt="Pacha Cover — AI-powered urban canopy planning with environmental data, tree prescriptions, and a green ledger." /></a>
-
-Explore Pacha Cover →
-A greener-city experiment combining AI tree recommendations, satellite heat data, and community planting records. Python · FastAPI · Gemini · Earth Engine · Firestore.
-> cat ./other-signals.md
-Project	What I explored
-ReportForge	Privacy-conscious, local-first report generation from spreadsheets and PowerPoint templates.
-KSP	A fitness platform built with Next.js, Firebase, and multilingual tooling.
-MindStream	Gemini-powered conversational UX with sentiment and response telemetry.
-Windows XP Portfolio	A playful, nostalgic browser-based portfolio experiment.
-Utsava Travels	A responsive travel-business website built with HTML, CSS, and JavaScript.
-
-
-> inspect ./toolchain
-<img src="./assets/07-stack.svg" width="100%" alt="Toolchain: TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Python, FastAPI, Gemini." />Beyond these: Supabase, Firebase, Prisma, Docker, Tailwind CSS, Vite, Git, computer vision, and ML tooling — chosen based on the problem rather than collected as badges.
-> echo $CURRENT_MINDSET
-[01] Think in systems.       Design for the whole lifecycle.
-[02] Build for people.       Make complexity feel simple.
-[03] Keep experimenting.     Learn fast, refine deliberately.
-<div align="center">
-  <a href="https://github.com/yashas1519-pixel?tab=repositories">ALL REPOSITORIES</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:yashas1519@gmail.com">COLLABORATE</a>
-</div>
-<img src="./assets/08-footer.svg" width="100%" alt="Let the work speak. Craft, curiosity, iteration." />
+<p align="center"><a href="https://github.com/yashas1519-pixel?tab=overview"><img src="assets/activity.gif" width="33%" alt="Animated GitHub contribution blocks, updated daily after workflow setup" /></a> <a href="challenge/README.md"><img src="assets/debug.png" width="33%" alt="Trace the Output — click to play a code puzzle" /></a> <a href="https://github.com/yashas1519-pixel/yashas1519-pixel/issues/new?title=Guestbook%3A%20Hello%20Yashas&amp;body=Say%20hello%20or%20share%20what%20you%20are%20building%21"><img src="assets/guestbook.png" width="29%" alt="Sign the guestbook — submit a public GitHub issue" /></a></p>
+<p align="center"><sub><a href="challenge/README.md">Play the puzzle</a> · <a href="guestbook.md">Read the guestbook</a> · Activity refreshed by GitHub Actions once enabled.</sub></p>
