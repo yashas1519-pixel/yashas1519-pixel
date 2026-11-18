@@ -1,6 +1,10 @@
 name: Refresh contribution activity
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - assets/activity.gif
   schedule:
     - cron: '27 2 * * *'
 permissions:
